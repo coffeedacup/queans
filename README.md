@@ -4,7 +4,7 @@ docker-compose up --build
 Приложение будет доступно по адресу:
 http://localhost:8000
 
-Документация Sqagger UI:
+Документация Swagger UI:
 http://localhost:8000/docs
 
 Запуск тестов:
